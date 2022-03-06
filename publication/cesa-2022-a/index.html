@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="Equivariance is becoming an increasingly popular design choice to build data efficient neural networks by exploiting prior knowledge about the symmetries of the problem at hand. Euclidean steerable CNNs are one of the most common classes of equivariant networks. While the constraints these architectures need to satisfy are understood, no practical method to parametrize them generally has been described so far, with most existing approaches tailored to specific groups or classes of groups. In this work, we generalize the Wigner-Eckart theorem proposed in Lang &amp; Weiler (2021), which characterizes general G-steerable kernel spaces for compact groups G over their homogeneous spaces, to arbitrary G-spaces. This enables us to directly parameterize filters in terms of a band-limited basis on the base space, but also to easily implement steerable CNNs equivariant to a large number of groups. To demonstrate its generality, we instantiate our method on a large variety of isometry groups acting on the Euclidean space R^3. Our general framework allows us to build E(3) and SE(3)-steerable CNNs like previous works, but also CNNs with arbitrary G textless O(3)-steerable kernels. For example, we build 3D CNNs equivariant to the symmetries of platonic solids or choose G=SO(2) when working with 3D data having only azimuthal symmetries. We compare these models on 3D shapes and molecular datasets, observing improved performance by matching the model&#39;s symmetries to the ones of the data." />
+  <meta name="description" content="We propose a general method to implement equivariant convolutional neural networks and demonstrate it for 3D equivariant tasks. The implementation is based on the Wigner-Eckart theorem for steerable kernels." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://langleon.github.io/publication/cesa-2022-a/" />
@@ -313,7 +313,7 @@
   <meta property="og:site_name" content="Leon Lang" />
   <meta property="og:url" content="https://langleon.github.io/publication/cesa-2022-a/" />
   <meta property="og:title" content="A Program to Build E(N)-Equivariant Steerable CNNs | Leon Lang" />
-  <meta property="og:description" content="Equivariance is becoming an increasingly popular design choice to build data efficient neural networks by exploiting prior knowledge about the symmetries of the problem at hand. Euclidean steerable CNNs are one of the most common classes of equivariant networks. While the constraints these architectures need to satisfy are understood, no practical method to parametrize them generally has been described so far, with most existing approaches tailored to specific groups or classes of groups. In this work, we generalize the Wigner-Eckart theorem proposed in Lang &amp; Weiler (2021), which characterizes general G-steerable kernel spaces for compact groups G over their homogeneous spaces, to arbitrary G-spaces. This enables us to directly parameterize filters in terms of a band-limited basis on the base space, but also to easily implement steerable CNNs equivariant to a large number of groups. To demonstrate its generality, we instantiate our method on a large variety of isometry groups acting on the Euclidean space R^3. Our general framework allows us to build E(3) and SE(3)-steerable CNNs like previous works, but also CNNs with arbitrary G textless O(3)-steerable kernels. For example, we build 3D CNNs equivariant to the symmetries of platonic solids or choose G=SO(2) when working with 3D data having only azimuthal symmetries. We compare these models on 3D shapes and molecular datasets, observing improved performance by matching the model&#39;s symmetries to the ones of the data." /><meta property="og:image" content="https://langleon.github.io/media/icon_hu2845c970e471743f78ec45d4428bffc3_22563_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="We propose a general method to implement equivariant convolutional neural networks and demonstrate it for 3D equivariant tasks. The implementation is based on the Wigner-Eckart theorem for steerable kernels." /><meta property="og:image" content="https://langleon.github.io/media/icon_hu2845c970e471743f78ec45d4428bffc3_22563_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://langleon.github.io/media/icon_hu2845c970e471743f78ec45d4428bffc3_22563_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -364,7 +364,7 @@
       "url": "https://langleon.github.io/media/icon_hu2845c970e471743f78ec45d4428bffc3_22563_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Equivariance is becoming an increasingly popular design choice to build data efficient neural networks by exploiting prior knowledge about the symmetries of the problem at hand. Euclidean steerable CNNs are one of the most common classes of equivariant networks. While the constraints these architectures need to satisfy are understood, no practical method to parametrize them generally has been described so far, with most existing approaches tailored to specific groups or classes of groups. In this work, we generalize the Wigner-Eckart theorem proposed in Lang \u0026 Weiler (2021), which characterizes general G-steerable kernel spaces for compact groups G over their homogeneous spaces, to arbitrary G-spaces. This enables us to directly parameterize filters in terms of a band-limited basis on the base space, but also to easily implement steerable CNNs equivariant to a large number of groups. To demonstrate its generality, we instantiate our method on a large variety of isometry groups acting on the Euclidean space R^3. Our general framework allows us to build E(3) and SE(3)-steerable CNNs like previous works, but also CNNs with arbitrary G textless O(3)-steerable kernels. For example, we build 3D CNNs equivariant to the symmetries of platonic solids or choose G=SO(2) when working with 3D data having only azimuthal symmetries. We compare these models on 3D shapes and molecular datasets, observing improved performance by matching the model's symmetries to the ones of the data."
+  "description": "We propose a general method to implement equivariant convolutional neural networks and demonstrate it for 3D equivariant tasks. The implementation is based on the Wigner-Eckart theorem for steerable kernels."
 }
 </script>
 
@@ -626,43 +626,6 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/#projects"><span>Past Writings</span></a>
-          </li>
-
-          
-          
-
-          
-
-          
-          
-          
-            
-          
-
-          
-
-          
-          
-          
-          
-
-          
-            
-              
-              
-            
-            
-              
-              
-              
-                
-              
-              
-            
-          
-
-          <li class="nav-item">
             <a class="nav-link " href="/#contact"><span>Contact</span></a>
           </li>
 
@@ -862,7 +825,7 @@
     
   
   <a class="btn btn-outline-primary btn-page-header" href="https://openreview.net/forum?id=WE4qe9xlnQw" target="_blank" rel="noopener">
-    URL</a>
+    Reviews</a>
 
 
 </div>
