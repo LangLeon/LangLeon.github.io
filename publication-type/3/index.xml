@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Leon Lang</title>
+    <link>https://langleon.github.io/publication-type/3/</link>
+      <atom:link href="https://langleon.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://langleon.github.io/media/icon_hu2845c970e471743f78ec45d4428bffc3_22563_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://langleon.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Factored space models: Towards causality between levels of abstraction</title>
+      <link>https://langleon.github.io/publication/2024-garrabrant/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2024-garrabrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret</title>
+      <link>https://langleon.github.io/publication/2024-fluri/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2024-fluri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Markov Random Fields</title>
+      <link>https://langleon.github.io/publication/2024-lang-mrf/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2024-lang-mrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu&#39;s Theorem</title>
+      <link>https://langleon.github.io/publication/2022-lang/</link>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2022-lang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

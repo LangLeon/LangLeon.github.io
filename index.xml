@@ -33,12 +33,52 @@
     </item>
     
     <item>
+      <title>Factored space models: Towards causality between levels of abstraction</title>
+      <link>https://langleon.github.io/publication/2024-garrabrant/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2024-garrabrant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret</title>
+      <link>https://langleon.github.io/publication/2024-fluri/</link>
+      <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2024-fluri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Your AIs Deceive You: Challenges of Partial Observability in Reinforcement Learning from Human Feedback</title>
+      <link>https://langleon.github.io/publication/2024-lang/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2024-lang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Shutdown Avoidance of Language Models in Textual Scenarios</title>
+      <link>https://langleon.github.io/publication/2023-wei/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2023-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Markov Random Fields</title>
+      <link>https://langleon.github.io/publication/2024-lang-mrf/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2024-lang-mrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mathematical Writings from my Time as a Student</title>
       <link>https://langleon.github.io/post/old-writings/</link>
       <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://langleon.github.io/post/old-writings/</guid>
       <description>&lt;h2 id=&#34;theses&#34;&gt;Theses&lt;/h2&gt;
-&lt;p&gt;In July 2020, I finished my &lt;a href=&#34;https://langleon.github.io/uploads/thesis.pdf&#34; target=&#34;_blank&#34;&gt;master&#39;s thesis artificial intelligence&lt;/a&gt; at the University of Amsterdam. It contains a generalization of the Wigner-Eckart theorem from quantum mechanics. Compared with the adapted &lt;a href=&#34;https://langleon.github.io/publication/lang-2021-a&#34;&gt;ICLR publication&lt;/a&gt;, this thesis features an alternative introduction and a more detailed literature review.&lt;/p&gt;
+&lt;p&gt;In July 2020, I finished my &lt;a href=&#34;https://langleon.github.io/uploads/thesis.pdf&#34; target=&#34;_blank&#34;&gt;master&#39;s thesis artificial intelligence&lt;/a&gt; at the University of Amsterdam. It contains a generalization of the Wigner-Eckart theorem from quantum mechanics. Compared with the adapted &lt;a href=&#34;https://langleon.github.io/publication/2021-a-lang&#34;&gt;ICLR publication&lt;/a&gt;, this thesis features an alternative introduction and a more detailed literature review.&lt;/p&gt;
 &lt;p&gt;In October 2017, I finished my &lt;a href=&#34;https://langleon.github.io/uploads/master_thesis_abgabe_version.pdf&#34; target=&#34;_blank&#34;&gt;master&#39;s thesis mathematics&lt;/a&gt; at the university of Bonn. This thesis details the asymptotic behaviour of so-called Auslander-Reiten translations, which are functors in the representation theory of finite dimensional associative algebras.&lt;/p&gt;
 &lt;p&gt;In August 2015, I handed in my &lt;a href=&#34;https://langleon.github.io/uploads/Torische_Varietaeten_Abgabe_version.pdf&#34; target=&#34;_blank&#34;&gt;bachelor&#39;s thesis mathematics&lt;/a&gt; at the university of Heidelberg. In there, I explain what toric varieties are in the modern language of schemes. I then explain that the category of normal, separated toric varieties is equivalent to that of so-called finite fans.&lt;/p&gt;
 &lt;h2 id=&#34;seminar-expositions-from-my-mathematics-bachelors-degree&#34;&gt;Seminar Expositions from my mathematics bachelor&amp;rsquo;s degree&lt;/h2&gt;
@@ -51,26 +91,26 @@
     </item>
     
     <item>
-      <title>A Program to Build E(N)-Equivariant Steerable CNNs</title>
-      <link>https://langleon.github.io/publication/cesa-2022-a/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://langleon.github.io/publication/cesa-2022-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Information Decomposition Diagrams Applied beyond Shannon Entropy: A Generalization of Hu&#39;s Theorem</title>
       <link>https://langleon.github.io/publication/2022-lang/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://langleon.github.io/publication/2022-lang/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>A Program to Build E(N)-Equivariant Steerable CNNs</title>
+      <link>https://langleon.github.io/publication/2022-a-cesa/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://langleon.github.io/publication/2022-a-cesa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Wigner-Eckart Theorem for Group Equivariant Convolution Kernels</title>
-      <link>https://langleon.github.io/publication/lang-2021-a/</link>
+      <link>https://langleon.github.io/publication/2021-a-lang/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://langleon.github.io/publication/lang-2021-a/</guid>
+      <guid>https://langleon.github.io/publication/2021-a-lang/</guid>
       <description></description>
     </item>
     
@@ -205,9 +245,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Learning to Request Guidance in Emergent Communication</title>
-      <link>https://langleon.github.io/publication/kolb-2019/</link>
+      <link>https://langleon.github.io/publication/2019-kolb/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://langleon.github.io/publication/kolb-2019/</guid>
+      <guid>https://langleon.github.io/publication/2019-kolb/</guid>
       <description></description>
     </item>
     
